@@ -91,6 +91,12 @@ h1{
      font-size:40px;
      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+#h1Image {
+    width: 200px;
+    height: auto;
+}
+
 .question-container{
     display: block;
     color: brown;
